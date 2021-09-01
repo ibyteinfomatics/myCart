@@ -1,5 +1,4 @@
-import './Mini_Carts/MiniCart.css'
-import MiniCart from './Mini_Carts/MiniCart';
+import MiniCart from './components/miniCart/MiniCart';
 
 const App = () => {
 
